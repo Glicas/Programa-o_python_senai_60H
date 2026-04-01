@@ -1,4 +1,5 @@
 # t-rex 
+#codigo não esta aparecendo a tela e está basicamente todo bugado
 
 import random
 import pygame
